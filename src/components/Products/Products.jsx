@@ -23,9 +23,6 @@ function Products() {
     </section>   )
 
      
-
-      
-    
   )
 }
 

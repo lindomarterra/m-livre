@@ -5,6 +5,7 @@
     color: #222222d2;
     margin-right: 10px;
     position: relative;
+    cursor: pointer;
 }
 
 .cart-status{
